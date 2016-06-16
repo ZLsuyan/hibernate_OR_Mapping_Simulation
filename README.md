@@ -1,0 +1,2 @@
+# hibernate_OR_Mapping_Simulation
+hibernate对象关系映射模拟
